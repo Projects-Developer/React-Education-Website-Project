@@ -1,4 +1,4 @@
-# React-Education-Website-Project
+# React Education Website Project
 The React Education Website Project is a web application With Code, Documents And Video tutorial
 
 ![react education](https://github.com/user-attachments/assets/2fc37d24-9b5c-41b0-bef4-c60e70e9a34d)
